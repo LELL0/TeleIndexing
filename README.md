@@ -22,7 +22,7 @@ teleIndexer.py -c 569691 -i 10
 ```
 
 ```
-teleIndexer.py -channel https://t.me/programminginc --XLASTMESSAGES 25
+teleIndexer.py --channel https://t.me/programminginc --XLASTMESSAGES 25
 ```
 
 ```
